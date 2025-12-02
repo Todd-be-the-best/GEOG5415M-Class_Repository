@@ -15,8 +15,8 @@ points_list = [
 
     # Add more points here
 
-    [ latitude, longitude, "description" ],
-    [ latitude, longitude, "description" ],
+    [ 53.48013, -1.33385, "Burley Studios" ],
+    [ 53.80245634447995, -1.5416290922527782, "IQ Altus" ],
     [  53.814665, -1.6376061, "Fran's favourite bakery"],
     
     [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
