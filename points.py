@@ -11,17 +11,26 @@
 points_list = [
     [  53.808478, -1.5527924, "University of Leeds" ],
     [  53.840032, -1.6432286, "Nick's neighbourhood" ],
-    
+    [  53.98180, -1.51175, "A seat with a good veiw"], 
+    [  54.99163, -1.60362, "Phenix: Newcastle's best pub"],
 
     # Add more points here
 
     [ 53.48013, -1.33385, "Burley Studios" ],
     [ 53.80245634447995, -1.5416290922527782, "IQ Altus" ],
+     [ 52.65026, -0.47385, "Albert Bridge" ],
+     [ 52.50787, -0.40212, "Cara's Hill" ],
     [  53.814665, -1.6376061, "Fran's favourite bakery"],
     
     [  53.800622, -1.5483202, "The Leeds Art Gallery!" ],
     [  53.798874, -1.5408800, "Rayan's Favourite Japanese Restaurant" ],
+   
+    [  53.79755036197394, -1.5433104537008813,"Kathy's favourite restaurant"],
+    [  34.58223767715908, 135.79883198965894, "Kuni's favourite ramen restaurant in Japan"],
+    [ 31.473338429173076, 74.46975891032893, "Lanzhou noodles-LCC" ],
+    
 
+    [  53.800350,-1.539687, " Chenxi's favourite Thai Restaurant"],
 ]
 
 def get_points():
