@@ -12,7 +12,7 @@ points_list = [
     [  53.808478, -1.5527924, "University of Leeds" ],
     [  53.840032, -1.6432286, "Nick's neighbourhood" ],
     [  53.98180, -1.51175, "A seat with a good veiw"], 
-    [  54.99163, -1.60362, "Phenix: Newcastle's best pub"]
+    [  54.99163, -1.60362, "Phenix: Newcastle's best pub"],
 
     # Add more points here
 
